@@ -1,4 +1,4 @@
-# w3load + w3perf
+# wc3.128-loadfix
 
 Faster map loading and fewer fight freezes for **Warcraft III 1.28.5**.
 
